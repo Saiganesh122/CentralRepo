@@ -3,3 +3,4 @@ psvm(String [] args) {
 system.out.println("Hello world)
 }
 }
+output: Hello world
